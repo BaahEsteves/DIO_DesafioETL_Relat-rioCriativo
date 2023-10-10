@@ -64,3 +64,7 @@ Explicação sobre como configurar o Power BI para se conectar ao banco de dados
 
 - O valor nulo presente na tabela colaborador na coluna se deve ao fato de ele ser um gerente e não possuir um cargo acima dele, portanto ele é o único colaborador sem gerente.
 - A operação de mesclagem é usada para adicionar informações de uma tabela a outra, com base em algum critério de correspondência, nesses casos as colunas estão em tabelas distintas e para conseguir agrupá-las sem criar linhas com valores sem conexão com as existentes deve ser usado mesclagem ao invés de atribuir.
+
+## Relatório Power BI
+
+- O relatório escontra-se anexado a este repositório 
